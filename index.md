@@ -1,5 +1,6 @@
 <H1> Outlier Records</H1>
 
+![LOGO](need logo)
 
 
 <p>About us: Outlier Records is a Seattle-Based independent record company specializing in digital distribution.</p>

@@ -3,7 +3,7 @@
 
 <H1> Outlier Records</H1>
 
-![LOGO](need logo)
+![LOGO]() <!--(need logo)-->
 
 </head>
 

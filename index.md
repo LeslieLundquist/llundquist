@@ -20,3 +20,5 @@
 <p><b>Gallery:</b> Follow us on Social Media, check out our upcoming events and photo gallery.</p>
 
 </body>
+
+</html>
